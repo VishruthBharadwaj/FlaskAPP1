@@ -15,6 +15,8 @@ Steps to be followed:
 	If you do not enter anything complete file1 will be displayed.
 
 	If just the file2 is mentioned in filename option complete file2 data will be displayed.
+	
+	Enter Starting line and ending line with filename in form.Data wrt specific lines will be displayed.
 
 
 
